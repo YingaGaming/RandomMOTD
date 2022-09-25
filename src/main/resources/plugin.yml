@@ -1,0 +1,4 @@
+name: RandomMOTD
+main: games.yinga.RandomMOTD.Main
+version: 1.0.0
+author: Xenorio
